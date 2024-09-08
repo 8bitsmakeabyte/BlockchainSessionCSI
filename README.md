@@ -1,4 +1,4 @@
-# BlockchainSessionCSI
+# Solidity-Project-Prime-Number-Checker
 # PRIME NUMBER CHECKER IN SOLIDITY
 
 This is a small project to emulate my understanding of the blockchain session conducted by CSI UMIT. Thanks for the fun session!
